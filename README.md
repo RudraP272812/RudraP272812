@@ -13,7 +13,7 @@
 
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@RudraPatel2812) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RudraPatel2812?country.x=CA&locale.x=en_US) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
