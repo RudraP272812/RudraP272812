@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building Web-Application<br>🌱 I’m currently learning more about Blockchain(WEB3).<br>👯 I’m looking to collaborate on Instagram rudraa._.patel.<br>🤔 I’m looking for help with React documentation.<br>💬 Ask me about Node.js or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+🔭 I’m currently building Web-Application<br>🌱 I’m currently learning more about Blockchain(WEB3).<br>👯 I’m looking to collaborate on Instagram rudraa._.patel.<br>🤔 I’m looking for help with Co-op opportunities.<br>💬 Ask me about Node.js or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 
 ## 🌐 Socials:
